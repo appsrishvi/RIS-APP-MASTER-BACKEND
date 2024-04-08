@@ -1,0 +1,6 @@
+@Rishvi.API_HostAddress = http://localhost:5091
+
+GET {{Rishvi.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
