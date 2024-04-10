@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rishvi\\New Theme\\Backend\\Rishvi.API\\Rishvi.API.csproj": {}
+    "C:\\Users\\prath\\Desktop\\Rishvi\\RIS-APP-MASTER-BACKEND\\Rishvi.API\\Rishvi.API.csproj": {}
   },
   "projects": {
-    "D:\\Rishvi\\New Theme\\Backend\\Rishvi.API\\Rishvi.API.csproj": {
+    "C:\\Users\\prath\\Desktop\\Rishvi\\RIS-APP-MASTER-BACKEND\\Rishvi.API\\Rishvi.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rishvi\\New Theme\\Backend\\Rishvi.API\\Rishvi.API.csproj",
+        "projectUniqueName": "C:\\Users\\prath\\Desktop\\Rishvi\\RIS-APP-MASTER-BACKEND\\Rishvi.API\\Rishvi.API.csproj",
         "projectName": "Rishvi.API",
-        "projectPath": "D:\\Rishvi\\New Theme\\Backend\\Rishvi.API\\Rishvi.API.csproj",
-        "packagesPath": "C:\\Users\\janik\\.nuget\\packages\\",
-        "outputPath": "D:\\Rishvi\\New Theme\\Backend\\Rishvi.API\\obj\\",
+        "projectPath": "C:\\Users\\prath\\Desktop\\Rishvi\\RIS-APP-MASTER-BACKEND\\Rishvi.API\\Rishvi.API.csproj",
+        "packagesPath": "C:\\Users\\prath\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prath\\Desktop\\Rishvi\\RIS-APP-MASTER-BACKEND\\Rishvi.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\janik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\prath\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
