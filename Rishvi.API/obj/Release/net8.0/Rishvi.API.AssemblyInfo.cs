@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rishvi.API")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f97d853d606026f41adb965b80a3327684aa80fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09941312613720c596f4a03b390bda0a76ce50cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rishvi.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rishvi.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
